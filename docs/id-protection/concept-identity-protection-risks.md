@@ -22,7 +22,7 @@ Microsoft Entra ID Protection can provide a broad range of risk detections that 
 - For information on workload identity risk detections, see [Securing workload identities](/entra/id-protection/concept-workload-identity-risk).
 
 > [!NOTE]
-> For details on real-time vs offline detections and risk levels, see [**Risk detection types and levels**](concept-risk-detection-types.md).
+> For details on real-time vs offline detections and risk levels, see [**Risk detection types and levels**](concept-risk-detection-types.md). Offline detections take up to 48 hours to surface in reports due to additional processing requirements.
 
 ## Sign-in risk detections mapped to riskEventType 
 
